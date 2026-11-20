@@ -31,7 +31,6 @@ public class BehaviourTree : Node
         {
             NodeLevel nextNode = nodeStack.Pop();
             treePrintout += new string('-', nextNode.level) + nextNode.node.name + "\n";
-
             for (int i = nextNode.node.children.Count - 1; i >= 0; i--)
             {
                 nodeStack.Push(new NodeLevel { level = nextNode.level + 1, node = nextNode.node.children[i] });
