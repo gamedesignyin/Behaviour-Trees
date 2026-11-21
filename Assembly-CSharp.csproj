@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\Behaviour Trees\Behaviour Tree.cs" />
     <Compile Include="Assets\Behaviour Trees\Selector.cs" />
+    <Compile Include="Assets\Behaviour Trees\Lock.cs" />
     <Compile Include="Assets\Behaviour Trees\Leaf.cs" />
     <Compile Include="Assets\Behaviour Trees\RobberBehaviour.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
