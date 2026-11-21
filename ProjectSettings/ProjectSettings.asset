@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: b54a724270b04ca48bb6ec2bb900d371
+  productGUID: 0df39d7c84eaca745b5e02b1ea0c95f0
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Behaviour Trees
+  productName: teste trees
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -846,14 +846,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Behaviour Trees
+  metroPackageName: teste trees
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Behaviour Trees
+  metroApplicationDescription: teste trees
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -924,10 +924,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 5975a93f-f8fb-428f-8dc7-4ab84e3f5551
+  cloudProjectId: aad3bd58-d2f8-49ab-85c0-d28d30f49000
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Behaviour Trees
+  projectName: teste trees
   organizationId: irina_moreira
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0

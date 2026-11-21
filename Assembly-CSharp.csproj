@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{59E2A47B-5AAA-5999-D066-D6AEF060029F}</ProjectGuid>
+    <ProjectGuid>{F6707505-B840-2E6C-1689-DB29241E7283}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -61,15 +61,15 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.3.10f1\Editor\Data\Tools\BuildPipeline\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Behaviour Trees\Behaviour Tree.cs" />
-    <Compile Include="Assets\Behaviour Trees\Selector.cs" />
-    <Compile Include="Assets\Behaviour Trees\Lock.cs" />
-    <Compile Include="Assets\Behaviour Trees\Leaf.cs" />
-    <Compile Include="Assets\Behaviour Trees\RobberBehaviour.cs" />
+    <Compile Include="Assets\Scripts\Selector.cs" />
+    <Compile Include="Assets\Scripts\BehaviourTree.cs" />
+    <Compile Include="Assets\Scripts\Leaf.cs" />
+    <Compile Include="Assets\Scripts\Lock.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\Scripts\Sequence.cs" />
+    <Compile Include="Assets\Scripts\Node.cs" />
+    <Compile Include="Assets\Scripts\RobberBehaviour.cs" />
     <Compile Include="Assets\Models\Rotate.cs" />
-    <Compile Include="Assets\Behaviour Trees\Node.cs" />
-    <Compile Include="Assets\Behaviour Trees\Sequence.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
