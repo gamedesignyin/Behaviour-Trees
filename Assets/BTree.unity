@@ -2311,6 +2311,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RobberBehaviour
   diamond: {fileID: 1550492363}
   van: {fileID: 1080620497}
+  backdoor: {fileID: 919599686}
 --- !u!1 &716268924
 GameObject:
   m_ObjectHideFlags: 0
